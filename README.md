@@ -4,9 +4,11 @@
 
 This is my first application made by me
 
-* I am Italic text *
-** I am bold text **
-*** All the text is important ***
+*I am Italic text*
+
+**I am bold text**
+
+***All the text is important***
 
 1. Reading
 2. Writing

@@ -4,6 +4,11 @@
 
 This is my first application made by me
 
+* I am Italic text *
+** I am bold text **
+*** All the text is important ***
+~~~ Life is full of struggle ~~~ ** Life is Beautiful **
+
 1. Reading
 2. Writing
 3. Cricket
@@ -14,3 +19,7 @@ This is my first application made by me
 - Struggle
 - Motivation
 - Be Happy
+
+Steve jobs says
+
+> Stay hungry stay foolish
